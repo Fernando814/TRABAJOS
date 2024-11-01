@@ -1,0 +1,4 @@
+persona,usuario1,contrasena1
+empresa,usuario2,contrasena2
+persona,usuario3,contrasena3
+empresa,usuario4,contrasena4
